@@ -2,7 +2,7 @@
 Daniel Guimarães    
 Henrique Soares    
 João Vitor Santana    
-Marcos Vinicius
+Marcos Vinicius Araujo
 
 ----
 ## Build 4 - 16/11
